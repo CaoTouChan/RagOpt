@@ -1,0 +1,11 @@
+torch==2.1.2
+torchaudio==2.1.2
+torchvision==0.16.2
+ctransformers>=0.2.24
+transformers==4.37.0
+huggingface-hub>=0.17.1
+llama-index==0.9.36
+llama_hub
+pymupdf
+frontend
+tools
